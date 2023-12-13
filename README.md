@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ernestngugi
 - 👀 I’m interested in anything to do with Software Development.
-- 🌱 I’m currently learning GO
+- 🌱 Current stack GO
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ngugi635@gmail.com
 
